@@ -3,6 +3,9 @@ An ASP.Net Core 7.0 Web API For Unit Of Work Pattern on User Model
 
 For Implemtation CRUD I used an object-relational mapper (O/RM) "Entity Framework Core" to work with database Sql Server.
 
+![repository-open-graph-template](https://user-images.githubusercontent.com/25717692/230797740-4851892e-743a-4981-a677-0e57f2ee2a35.png)
+
+
 ## The Repository and Unit of Work Patterns
 The repository and unit of work patterns are intended to create an abstraction layer between the data access layer and the business logic layer of an application. Implementing these patterns can help insulate your application from changes in the data store and can facilitate automated unit testing or test-driven development (TDD).
 
